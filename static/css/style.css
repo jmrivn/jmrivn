@@ -2242,8 +2242,7 @@ input.form-control-sm {
   font-weight: 700;
   color: #ffffff;
   margin-bottom: 30px;
-  position: relative;
-  
+  position: relative; 
 }
 @media (max-width: 1650px) {
   .hero-content h1 {
